@@ -14,3 +14,5 @@ elif b=="*":
     print(a * c)
 elif b=="/":
     print(a / c)
+else:
+    print("Invalid Operations")    
