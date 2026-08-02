@@ -7,12 +7,12 @@ c = int(input("Enter Number = "))
 
 
 if b == "+":
-    print("Your Answers is = ",(a + c))
+    print("KUCHU PUCHU Your Answers is = ",(a + c))
 elif b=="-":
-    print("Your Answer is = " ,(a - c))
+    print("KUCHU PUCHU Your Answer is = " ,(a - c))
 elif b=="*":
-    print("Your Answer is = " ,(a * c))
+    print("KUCHU PUCHU Your Answer is = " ,(a * c))
 elif b=="/":
-    print("Your Answer is = " ,(a / c))
+    print("KUCHU PUCHU Your Answer is = " ,(a / c))
 else:
     print("Invalid Operations")    
