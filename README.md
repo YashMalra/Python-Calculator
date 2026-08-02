@@ -1,3 +1,5 @@
-This is my First Python Project (Calculator)
+This is my First Python Project (Calculator).
+<br>
 I wish to add many features and make many projects.
-thank you!
+<br>
+Thank you!
