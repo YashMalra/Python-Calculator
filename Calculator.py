@@ -1,4 +1,4 @@
-print("Mini Calculator")
+print("                                          Mini Calculator                                                   ")
 
 
 a = int(input("Enter Number = "))
@@ -7,12 +7,12 @@ c = int(input("Enter Number = "))
 
 
 if b == "+":
-    print(a + c)
+    print("Your Answers is = ",(a + c))
 elif b=="-":
-    print(a - c)
+    print("Your Answer is = " ,(a - c))
 elif b=="*":
-    print(a * c)
+    print("Your Answer is = " ,(a * c))
 elif b=="/":
-    print(a / c)
+    print("Your Answer is = " ,(a / c))
 else:
     print("Invalid Operations")    
